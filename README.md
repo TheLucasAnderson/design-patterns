@@ -3,6 +3,8 @@
   <img src="./.github/banner.svg" height="150px" />
 </p>
 
+Inspiration: [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans/)
+
 ***
 
 <p align="center">
@@ -13,8 +15,6 @@ A topic that can easily make anyone's mind wobble. Here I try to make them stick
 </p>
 
 ***
-
-<sub>Check out my [other project](http://roadmap.sh) and say "hi" on [Twitter](https://twitter.com/kamranahmedse).</sub>
 
 <br>
 
